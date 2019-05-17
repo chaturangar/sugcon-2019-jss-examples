@@ -1,0 +1,13 @@
+id: exercise-2
+
+fields:
+  pageTitle: Exercise2 - Creating Components
+
+placeholders:
+  jss-main:
+    - componentName: Exercise2Component
+      fields:
+        heading: Hello World!
+    - componentName: Exercise2Component
+      fields:
+        heading: Hello World!

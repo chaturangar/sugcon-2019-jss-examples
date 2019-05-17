@@ -1,0 +1,10 @@
+id: exercise-4
+
+placeholders:
+  jss-main:
+    - componentName: Exercise4Component
+      fields:
+        content: |
+          <h1><strong>This is a RichText Field Component</strong></h1>
+          <p>&nbsp;</p>
+          <p style="margin-left: 40px;"><em>Hello World!</em></p>

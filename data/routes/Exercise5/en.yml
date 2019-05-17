@@ -1,0 +1,21 @@
+id: exercise-5
+
+placeholders:
+  jss-main:
+    - componentName: Exercise5Component
+      fields:
+        textfield: This is Text Field
+        richtextfield: |
+          <h2>This is RichText Field</h2>
+        imagefield:
+          src: /data/media/img/sugcon_logo.png
+          alt: SUGCON India 2019
+        #checkboxfield: true
+        generallinkfield:
+          href: https://www.sugcon.in
+          text: "SUGOCN India 2019"
+        datefield: "2019-05-15T16:00:00Z"
+        filefield: 
+          src: /data/media/files/jss.pdf
+          title: JSS File Field
+          description: This contains a pdf file

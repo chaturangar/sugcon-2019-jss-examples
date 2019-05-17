@@ -1,0 +1,14 @@
+id: exercise-11
+
+placeholders:
+  jss-main:
+    - componentName: Exercise10Component      
+      placeholders:
+        jss-left:
+          - componentName: Exercise2Component
+            fields: 
+              heading: Hello World left
+        jss-right:
+          - componentName: Exercise2Component
+            fields:
+              heading: Hello World Right

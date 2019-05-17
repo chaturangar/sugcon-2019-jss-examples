@@ -1,0 +1,8 @@
+id: exercise-3
+
+fields:
+  pageTitle: Exercise3 - Static Component
+
+placeholders:
+  jss-main:
+    - componentName: Exercise3Component

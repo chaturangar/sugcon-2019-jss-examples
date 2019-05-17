@@ -1,0 +1,8 @@
+id: exercise-6
+
+fields:
+  pageTitle: Welcome to Sitecore JSS
+  
+placeholders:
+  jss-main:
+    - componentName: Exercise6Component

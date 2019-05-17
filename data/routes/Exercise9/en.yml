@@ -1,0 +1,8 @@
+id: exercise-9
+ 
+#fields:
+#  pageTitle: Sitecore Context Example
+
+placeholders:
+  jss-main:
+    - componentName: Exercise9Component
